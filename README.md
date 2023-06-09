@@ -1,4 +1,4 @@
-# CliNe - Clickbait News Detector
+# 📌📌🤖CliNe - Clickbait News Detector
 
 ![CliNe Logo](ui-ux_design/style_guide/banner_chrome.png)
 
