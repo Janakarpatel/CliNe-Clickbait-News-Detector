@@ -37,3 +37,19 @@ Read **Installation guide** given in documentation and install it.
 - [resources](resources) Additional resources such as GloVe-word embeddings files.
 - [results](results) Contains generated results such as accuracy and loss graphs, API test and final results etc.
 - [UI-UX Design](ui-ux_design) Includes screenshots and wireframes showcasing the UI and design.
+
+## Developers
+- Janakar Patel - pateljankar124@gmail.com
+- Abhi Prajapati - abhiprajapati011@gmail.com
+
+## Contributing
+We welcome contributions from the community. If you have any suggestions, bug reports, or feature requests, please submit them via the Issues section of this repository.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+We would like to express our gratitude to the creators of the GloVe word embeddings and the open-source libraries used in this project for their valuable contributions.
+
+---
+Thank you for using CliNe! We hope this tool helps you identify and avoid clickbait news titles while browsing the web.
